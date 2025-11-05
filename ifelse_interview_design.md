@@ -221,3 +221,5 @@ if ((a + b) > c && (a + c) > b && (b + c) > a) {
 ---
 
 **Master these patterns and you'll be ready for C++ interviews and real-world coding!**
+
+vivek
